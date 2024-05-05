@@ -1,0 +1,7 @@
+/modules/__pycache__/
+/outputs/
+/diabetes-key/
+/diabetes-key.pub/
+
+*.zip
+*.png
